@@ -1,14 +1,17 @@
 {
-  "name": "railway-demo",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ASLv2",
-  "dependencies": {
-    "express": "^4.18.2"
-  }
+    "name": "railway-demo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ASLv2",
+    "dependencies": {
+        "express": "^4.18.2"
+    },
+    "devDependencies": {
+        "prettier": "^2.8.8"
+    }
 }
